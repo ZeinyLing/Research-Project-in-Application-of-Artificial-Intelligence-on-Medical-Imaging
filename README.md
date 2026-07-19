@@ -1,4 +1,4 @@
-# Research-Project-in-Application-of-Artificial-Intelligence-on-Medical-Imaging
+# 人工智慧醫學影像應用專題研究 
 Research Project in Application of Artificial Intelligence on Medical Imaging
 
 ## Links
