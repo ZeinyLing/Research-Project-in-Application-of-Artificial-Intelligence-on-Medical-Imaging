@@ -7,4 +7,4 @@ Research Project in Application of Artificial Intelligence on Medical Imaging
 |------|------|------|
 | LAB1 | [Link](https://github.com/ZeinyLing/Research-Project-in-Application-of-Artificial-Intelligence-on-Medical-Imaging/tree/main/LAB1) | Detect Pneumonia from chest X-Ray images |
 | LAB2 | [Link](https://github.com/ZeinyLing/Research-Project-in-Application-of-Artificial-Intelligence-on-Medical-Imaging/tree/main/LAB2) | EEG Classification with BCI competition dataset |
-| LAB3 | [Link](https://github.com/ZeinyLing/Research-Project-in-Application-of-Artificial-Intelligence-on-Medical-Imaging/tree/main/LAB3) | Instance Segmentation |
+| LAB3 | [Link](https://github.com/ZeinyLing/Research-Project-in-Application-of-Artificial-Intelligence-on-Medical-Imaging/tree/main/LAB3) | CXR multi-class classification |
